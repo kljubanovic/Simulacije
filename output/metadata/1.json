@@ -1,0 +1,29 @@
+{
+  "name": "Cupcake Kolekcija #1",
+  "description": "NFT kolekcija sa korpicom, šlagom, licem, dodatkom i očima.",
+  "image": "ipfs://REPLACE_ME/1.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "korpica",
+      "value": "Circle.004"
+    },
+    {
+      "trait_type": "slag",
+      "value": "slag3"
+    },
+    {
+      "trait_type": "lice",
+      "value": "Icosphere.004"
+    },
+    {
+      "trait_type": "dodatak",
+      "value": "Cone"
+    },
+    {
+      "trait_type": "oci",
+      "value": "Vert.001"
+    }
+  ],
+  "compiler": "Blender Python Script"
+}

@@ -1,0 +1,10 @@
+{
+    "image": "image_5.png",
+    "combination": {
+        "slag": "slag2",
+        "oci": "Vert.001",
+        "korpica": "Circle.003",
+        "dodatak": "Cone.001",
+        "lice": "Icosphere.002"
+    }
+}
